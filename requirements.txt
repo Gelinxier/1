@@ -1,0 +1,7 @@
+pygame~=2.6.1
+imageio~=2.36.0
+numpy~=2.1.2
+PyAutoGUI~=0.9.54
+opencv-python~=4.10.0.84
+pillow~=11.0.0
+keyboard~=0.13.5
